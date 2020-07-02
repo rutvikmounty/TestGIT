@@ -1,6 +1,20 @@
-this is my first text filethis is my first text filethis is my first text file
-this is my first text filethis is my first text file
-this is my first text file
-this is my first text file
-this is my first text file
-this is my first text file
+GIT Command Line - Commands
+
+cd -- To Change Directory 
+ls -- To List files or Directories
+
+git config -- global user.name "rutvikmounty" -- To connect with your GITHUB repository 
+
+git config -- global user.email rxxxxxxxxxxxxxxxxi@gmail.com -- To connect with Your GITHUB repository
+
+git clone https://github.com/rutvikmounty/TestGIT.git -- To clone your existing repository from GITHUB
+
+git add test.txt -- To add a file to GIT
+
+git status -- To know the status of the file 
+
+git commit -m "Commentout -- This reflects on the GITHUB" test.txt -- Commiting the file 
+
+git push -u origin master -- Pushing file to GITHUB repository
+
+If you change anything you need to push the file to repo so that the code will be in sync with repository
